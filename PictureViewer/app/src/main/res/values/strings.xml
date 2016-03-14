@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Picture Viewer</string>
+    <string name="indicator_format">%1$d/%2$d</string>
+    <plurals name="items">
+        <item quantity="one">%1$d item</item>
+        <item quantity="other">%1$d items</item>
+    </plurals>
+</resources>
